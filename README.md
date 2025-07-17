@@ -1,1 +1,1 @@
-This is a test
+Nearing a Milestone into the DevOps sector, This is to provide a example of a skillset known as Network automation. It take years of practice to become a good Network engineer, and years also to be a good system administrator, but having both combination of skills is rare so I considered myself fortunate with my background. One can't automate what isn't understooded, and a end goals to Devops philosphy is the automations 
